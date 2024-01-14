@@ -3,5 +3,3 @@ streamlit
 opencv-python
 numpy
 ffmpeg
-libsm6
-libxext6
