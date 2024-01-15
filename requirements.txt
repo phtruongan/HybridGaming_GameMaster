@@ -1,5 +1,6 @@
 streamlit-webrtc
 streamlit
+streamlit-server-state
 opencv-python-headless
 numpy
 ffmpeg
